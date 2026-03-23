@@ -1,0 +1,24 @@
+@import 'tailwindcss';
+
+
+body {
+  background: url('/images/bg.png') no-repeat center center fixed;
+  background-size: cover;
+  position: relative;
+}
+
+/* subtle overlay for readability */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(10, 10, 10, 0.6); /* dark overlay */
+  z-index: 0;
+}
+
+/* all main content must sit above background */
+main, .app-container, .min-h-screen, .dashboard-wrapper {
+  position: relative;
+  z-index: 1;
+}
