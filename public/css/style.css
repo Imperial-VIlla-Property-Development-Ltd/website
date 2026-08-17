@@ -4,6 +4,7 @@ body {
   margin: 0;
   background: #080000;
   color: #f8f1f1;
+display: none;
 }
 .container {
   width: 90%;
