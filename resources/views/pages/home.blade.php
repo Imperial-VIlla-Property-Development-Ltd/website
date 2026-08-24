@@ -257,7 +257,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6" data-aos="fade-up" data-aos-delay="200">
                     <div class="stat-box shadow-sm">
-                        <div class="stat-number counter" data-target="15">0</div>
+                        <div class="stat-number counter" data-target="1">0</div>
                         <p class="text-secondary fw-bold text-uppercase tracking-wide mb-0">Years of Excellence</p>
                     </div>
                 </div>
