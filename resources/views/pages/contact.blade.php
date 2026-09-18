@@ -103,7 +103,7 @@
       <a href="https://facebook.com/imperialvillaproperty" target="_blank" class="social-icon bg-facebook text-white shadow">
         <i class="fab fa-facebook-f"></i>
       </a>
-      <a href="https://x.com/imperial_villa_" target="_blank" class="social-icon bg-x-twitter text-white shadow">
+      <a href="https://x.com/imperial_villa_" target="_blank" class="social-icon bg-twitter text-white shadow">
         <i class="fab fa-x-twitter"></i>
       </a>
       <a href="https://instagram.com/imperialvillaltd" target="_blank" class="social-icon bg-instagram text-white shadow">
