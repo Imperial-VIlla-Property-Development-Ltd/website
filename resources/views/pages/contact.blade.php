@@ -152,7 +152,7 @@
 
   .bg-facebook { background-color: #1877f2; }
   .bg-instagram { background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%); }
-  .bg-twitter { background-color: #1da1f2; }
+  .bg-twitter { background-color: #14171a; }
   .bg-email { background-color: #d44638; }
 
   /* WhatsApp Button Pulse Animation */
