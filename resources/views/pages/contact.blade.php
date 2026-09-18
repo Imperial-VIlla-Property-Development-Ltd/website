@@ -104,7 +104,7 @@
         <i class="fab fa-facebook-f"></i>
       </a>
       <a href="https://x.com/imperial_villa_" target="_blank" class="social-icon bg-twitter text-white shadow">
-        <i class="fab fa-twitter"></i>
+        <i class="fab fa-x-twitter"></i>
       </a>
       <a href="https://instagram.com/imperialvillaltd" target="_blank" class="social-icon bg-instagram text-white shadow">
         <i class="fab fa-instagram"></i>
