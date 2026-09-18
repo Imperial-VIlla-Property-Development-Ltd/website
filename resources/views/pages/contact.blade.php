@@ -25,7 +25,7 @@
           <p class="text-primary fw-bold mb-1">Headquarters (Gombe)</p>
           <p class="text-secondary small mb-3">Doho Plaza, Adjacent Tumfure Police Station, Bauchi Road</p>
           <p class="text-primary fw-bold mb-1">Branch Offices</p>
-          <p class="text-secondary small mb-0">Kaduna • Plateau • Adamawa • Taraba<</p>
+          <p class="text-secondary small mb-0">Kaduna • Plateau • Adamawa • Taraba</p>
         </div>
       </div>
 
