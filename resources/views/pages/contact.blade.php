@@ -41,7 +41,7 @@
         <div class="contact-card p-5 bg-light shadow-sm rounded-4 h-100" style="transition: all 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.classList.add('shadow')" onmouseout="this.style.transform='translateY(0)'; this.classList.remove('shadow')">
           <i class="fas fa-envelope fa-3x text-danger mb-4"></i>
           <h4 class="fw-bold mb-3 text-dark">Email Address</h4>
-          <p class="text-secondary fs-6 text-break">support@imperialvillapropertydevelopment.com</p>
+          <p class="text-secondary fs-6 text-break">imperial.villa@imperialvillapropertydevelopment.com</p>
         </div>
       </div>
     </div>
